@@ -1,0 +1,31 @@
+body {
+  background-color: white;
+}
+
+.product-cards {
+  display: flex;
+  flex-wrap: wrap;
+  font-family: 'Indie Flower', cursive;
+}
+
+.title {
+  border: solid 1px lightblue;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 12px;
+}
+
+footer {
+  font-size: 10px;
+}
+
+.prod-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+td {
+  border: solid 1px lightblue;
+}
